@@ -3,10 +3,13 @@ SugarGliderGame
 
 Sugar Glider: The Game
 
-This game is for Adobe Flash.
+A project made for Interactive Digital Media
+The project was given the constraint to 
+use Flash to create an interactive scene 
+with three distinct pages and has an overriding theme. 
+Magic week was my chosen theme and you can see 
+that by the "magic show" feel of my product. 
 
-November 8th, 2012.
-
-See the 'How-To' page to learn how to play this game.
+Made in Flash. October 3rd, 2012.
 
 Made by Natasha Martinez
